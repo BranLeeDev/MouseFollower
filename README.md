@@ -1,4 +1,4 @@
-# NavBar
+# MouseFollower
 
 Un circulo casi transparente que sigue el puntero. Las tecnologías utilizadas en su creación son Vite, TypesScript, React, JSX y Tailwindcss.
 
